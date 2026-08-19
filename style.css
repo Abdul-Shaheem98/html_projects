@@ -127,6 +127,9 @@
 .p31{
     box-shadow: 10px 10px 5px 12px lightgreen;
 }
-.p32{
-    box-shadow: 10px 10px;
+.p32:hover{
+    color:chartreuse;
+}
+.p33.active{
+    color: orange;
 }
