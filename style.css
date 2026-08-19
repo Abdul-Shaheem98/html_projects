@@ -1,0 +1,132 @@
+.p{
+    border-style: solid;
+    border-width: 5px;
+}
+.p1{
+    border-top-style: solid;
+    border-right-style: dotted;
+    border-bottom-style: groove;
+    border-left-style: ridge;
+    border-width: 5px;
+}
+.p2{
+    border: 2px solid red;
+    border-width: 5px;
+}
+.p3{
+    border: 5px dotted blue ;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-right: 80px;
+}
+.p4{
+    border: 5px dotted blue ;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 30px;
+    padding-left: 80px;
+}
+.p5{
+    text-align: center;
+}
+.p6{
+    text-align: left;
+}
+.p7{
+    text-align: right;
+}
+.p8{
+    text-align: justify;
+}
+.p9{
+    text-align-last: right;
+}
+.p10{
+    text-align-last: center;
+}
+.p11{
+    text-align-last: justify;
+}
+.p12{
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 5px;
+    border-width: 5px;
+}
+.p13{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 5px;
+    border-width: 5px;
+}
+.p14{
+    font-size: 1.5em;
+}
+.p15{
+    font-weight: bold;
+}
+.p16{
+    height: 50vh;
+    width: 50vw;
+    background-color: aqua;
+}
+.p17{
+    height: 50vh;
+    width: 50vw;
+    background-color: cadetblue;
+    overflow: hidden;
+}
+.p18{
+    height: 50vh;
+    width: 50vw;
+    background-color: moccasin;
+    overflow: scroll;
+}
+.p19{
+    background-image: linear-gradient(60deg,red,yellow, green);
+}
+.p20{
+    background-image: linear-gradient(60deg,red,orange,yellow, green,blue,indigo,violet);
+}
+.p21{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+.p22{
+    background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
+}
+.p23{
+    background-image: radial-gradient(red 5%, yellow 15%, green 60%);
+}
+.p24{
+    background-image: conic-gradient(red, yellow, blue, green, black);
+    border-radius: 50%;
+}
+.p25{
+    background-image: conic-gradient(red 0deg, red 90deg, yellow 90deg, yellow 180deg, green 180deg, green 270deg, blue 270deg);
+    border-radius: 50%;
+}
+.p26{
+    text-shadow: 2px 2px;
+}
+.p27{
+    text-shadow: 2px 2px silver;
+}
+.p28{
+    text-shadow: 2px 2px 4px red;
+}
+.p29{
+    box-shadow: 10px 10px;
+}
+.p30{
+    box-shadow: 10px 10px 5px lightblue;
+}
+.p31{
+    box-shadow: 10px 10px 5px 12px lightgreen;
+}
+.p32{
+    box-shadow: 10px 10px;
+}
